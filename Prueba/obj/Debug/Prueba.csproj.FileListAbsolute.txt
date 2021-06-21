@@ -1,0 +1,21 @@
+C:\Users\GWille\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\GWille\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\GWille\source\repos\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\GWille\source\repos\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\GWille\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\GWille\source\repos\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\GWille\source\repos\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\Gabri\Downloads\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\Gabri\Downloads\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\Gabri\Downloads\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Gabri\Downloads\Prueba\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\Gabri\Downloads\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Downloads\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\Gabri\Downloads\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\Franco\Desktop\ISTEA\Estructura de Datos y Tecnologia Computacional\Modelo Parcial Cine\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\Franco\Desktop\ISTEA\Estructura de Datos y Tecnologia Computacional\Modelo Parcial Cine\Prueba\bin\Debug\Prueba.exe
+C:\Users\Franco\Desktop\ISTEA\Estructura de Datos y Tecnologia Computacional\Modelo Parcial Cine\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Franco\Desktop\ISTEA\Estructura de Datos y Tecnologia Computacional\Modelo Parcial Cine\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\ISTEA\Estructura de Datos y Tecnologia Computacional\Modelo Parcial Cine\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\ISTEA\Estructura de Datos y Tecnologia Computacional\Modelo Parcial Cine\Prueba\obj\Debug\Prueba.exe
+C:\Users\Franco\Desktop\ISTEA\Estructura de Datos y Tecnologia Computacional\Modelo Parcial Cine\Prueba\obj\Debug\Prueba.pdb
